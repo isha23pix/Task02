@@ -1,0 +1,177 @@
+*
+body{
+    background: #282828;
+    background-image: url(alt4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header{
+    background: url(back2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #000000;
+    padding: 15px;
+    font-family: Copperplate, Papyrus, fantasy;}
+    .navbar-brand{
+        color:black;
+    }
+    .navbar-brand:hover{
+      color:black;
+    }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color:none;
+    }
+    
+    li {
+      float: centre;
+    }
+    
+    li a {
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {color:gray;}
+.head{
+  background-color:none;
+  color: #000000;
+  padding: 15px;
+}
+.col-4{
+  align-self:center;
+  text-align:center;
+  margin:0 auto;
+}
+.col-8{align-self:center;}
+
+.card{
+  align-items: center;
+  border-radius: 20xp;
+}
+.card-body{
+  background: rgb(0, 0, 0);
+  background: url(try2.jpg);
+  color:white;
+  border-radius: 20px;
+  margin:1em;
+}
+.fas{
+  padding: 20px;
+  text-align: center;
+  text-decoration:none;
+}
+
+.fa-briefcase{
+   background: #ffc107;
+}
+.fa-laptop-code{
+  background: #ffc107;
+}
+.fa-clock{
+  background: #ffc107;
+}
+.box{
+    word-wrap:unset;
+    text-align:center;
+    margin: auto;
+    background:url(back8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    animation: Gradient 15s ease infinite;
+    color: #000000;
+    padding: 15px;
+}
+.hm{
+  padding: 15px;
+  margin: auto;
+  background-image: url(back8.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+input[type=text] textarea {  
+  width:100%;  
+  display: inline-block;  ; 
+  background: #ffffff; }  
+.submitbtn{
+  word-wrap:unset;
+  background:none; 
+  background-size: cover;
+  background-position: center; 
+  color: rgb(0, 0, 0);  
+  cursor: pointer;  
+  padding: 7px 10px;  
+  border-radius: 5px;
+  width: fit-content;   
+  }  
+.form { 
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width:60%;
+}
+.footer{
+   background-image: url(back2.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+    color: #000000;
+    padding: 15px;
+    font-family: Copperplate, Papyrus, fantasy;}
+.btn{
+    
+    border:none;
+    color:#000000;
+    font-size: 16px;
+    padding: 14px 28px;
+    cursor: pointer;
+}
+.aboutme{
+    background:#d0ff01;
+    color:black;}
+.aboutme:hover {color:grey}
+.portfolio{
+    background:#d0ff01;
+    color:black;}
+.portfolio:hover {color:grey}
+.downloadcv{
+    background:#d0ff01;
+    color:black;}
+.downloadcv:hover {color:grey}
+.fa {
+    padding: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration:none;
+    margin: 5px 5px;
+  }
+  .fa:hover { opacity: 0.8;}
+  .fa-instagram {
+    background: none;
+    color: rgb(0, 0, 0);
+  }
+  .fa-twitter {
+    background: none;
+    color: rgb(0, 0, 0);
+  }
+  .fa-linkedin {
+    background: none;
+    color: rgb(0, 0, 0);
+  }  
+  .fa-github {
+    background:none;
+    color: rgb(0, 0, 0);
+  }  
+  
