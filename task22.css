@@ -14,7 +14,7 @@ body{
     background-position: center;
     color: #000000;
     padding: 15px;
-    font-family: Copperplate, Papyrus, fantasy;}
+    font-family:"Audiowide", sans-serif;}
     .navbar-brand{
         color:black;
     }
@@ -129,7 +129,7 @@ input[type=text] textarea {
    background-position: center;
     color: #000000;
     padding: 15px;
-    font-family: Copperplate, Papyrus, fantasy;}
+    font-family: "Audiowide", sans-serif;}
 .btn{
     
     border:none;
